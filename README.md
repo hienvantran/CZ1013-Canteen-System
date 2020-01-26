@@ -1,6 +1,6 @@
 # Canteen-System
 Design a canteen system for browsing the opening stalls in NTU north spine canteen and their current available menu at any date and time
-# 1        INTRODUCTION
+## 1        INTRODUCTION
 
 ## 1.1     Objective  
 
@@ -13,7 +13,7 @@ The objective of this project is to create a python program that can show the re
 > Calculate estimated waiting time for the stall by asking user to enter the number of people in the queue
 > Allow to check the operating hours for all stalls
 
-# 2        ALGORITHM DESIGN
+## 2        ALGORITHM DESIGN
 
 ## 2.1     Flowchart
 
@@ -24,11 +24,11 @@ Legend:
 
 ### Scenario 1: Stall information now (McDonald’s)
 
-
+Start Main.py --> Open mainpage.py --> Users select "View today store" --> Open startpage.py --> Users select "Macdonal's" --> Open submenu.py --> Call stall1 from menu.py using current device day and time input --> Display dictionary values 
 
 ### Scenario 2: Stall information on another date (McDonald’s)
 
-
+Start Main.py --> Open mainpage.py --> Users select "View other day store" --> Open MyDatePicker.py --> Users slect date and time input, confirm and press "view menu" --> Open startpage1.py --> Users select "Macdonal's" --> Open submenu.py --> Call stall1 from menu.py using current device day and time input --> Display dictionary values 
 
 ## 2.2     Selection of GUI Package
 
