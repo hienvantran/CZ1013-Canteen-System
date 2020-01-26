@@ -17,11 +17,6 @@ The objective of this project is to create a python program that can show the re
 
 ## 2.1     Flowchart
 
-Legend:
-◇ = Start program
-○ = Program Action
-□ = User Action
-
 ### Scenario 1: Stall information now (McDonald’s)
 
 Start Main.py --> Open mainpage.py --> Users select "View today store" --> Open startpage.py --> Users select "Macdonal's" --> Open submenu.py --> Call stall1 from menu.py using current device day and time input --> Display dictionary values 
