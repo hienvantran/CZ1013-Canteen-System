@@ -7,11 +7,11 @@ Design a canteen system for browsing the opening stalls in NTU north spine cante
 The objective of this project is to create a python program that can show the real time menu of the stalls in north spine. The program is required to meet the following requirements:
 
 > Store and display stall information
-> Store and display stall menus
+Store and display stall menus
 > Display stall information and menus based on current system date and time
-> Display stall information and menus based on user defined date and time
+Display stall information and menus based on user defined date and time
 > Calculate estimated waiting time for the stall by asking user to enter the number of people in the queue
-> Allow to check the operating hours for all stalls
+Allow to check the operating hours for all stalls
 
 ## 2        ALGORITHM DESIGN
 
